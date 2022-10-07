@@ -23,3 +23,9 @@ Simply run
 ## Disclaimer
 
 DONT USE PROVIDED CERTIFICATES! THEY ARE PRESENT ONLY FOR TESTING PURPOSES!
+
+## Todo
+
+- [ ] Implement ephemeral (keeping original dockerfile intact)
+- [ ] Correct cleanup stability
+- [ ] Detect previous 443 and 80 port usage and cleanly stop if in use.
