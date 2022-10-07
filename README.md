@@ -15,10 +15,10 @@ Simply run
     
     python3 ./njinx.py --start <path to docker-compose.yml>
 
-![capture](https://github.com/TretornESP/njinx/raw/main/doc/capture1.png)
-![exec](https://github.com/TretornESP/njinx/raw/main/doc/capture2.png)
-![result1](https://github.com/TretornESP/njinx/raw/main/doc/capture3.png)
-![result2](https://github.com/TretornESP/njinx/raw/main/doc/capture4.png)
+![capture](https://github.com/TretornESP/NJinx/raw/main/doc/capture1.PNG)
+![exec](https://github.com/TretornESP/NJinx/raw/main/doc/capture2.PNG)
+![result1](https://github.com/TretornESP/NJinx/raw/main/doc/capture3.PNG)
+![result2](https://github.com/TretornESP/NJinx/raw/main/doc/capture4.PNG)
 
 ## Disclaimer
 
